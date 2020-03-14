@@ -1,0 +1,12 @@
+# pack-refs with: peeled fully-peeled sorted 
+1a1b41bb4fc02842eb8a774d8ec45bcc361125f7 refs/heads/dependabot/bundler/bootstrap-sass-3.4.1
+3e3afa95505d020b404bb48072e1a7287a18234d refs/heads/dependabot/bundler/nokogiri-1.10.8
+9dbcbbf48ab0e26cb98098cc3e52adf0463da417 refs/heads/dependabot/bundler/puma-3.12.4
+20c029b7276e47f608282bcc46f0d5cc567f1197 refs/heads/master
+1a1b41bb4fc02842eb8a774d8ec45bcc361125f7 refs/pull/1/head
+2eaa040622cd3e7085c21ae5f714f7f1e759fdcf refs/pull/1/merge
+3e3afa95505d020b404bb48072e1a7287a18234d refs/pull/2/head
+e7d3938050c3af3399375c9f08f884ca84f642e6 refs/pull/2/merge
+ab5e48547544ceca92a076dd21769f90b98d643a refs/pull/3/head
+9dbcbbf48ab0e26cb98098cc3e52adf0463da417 refs/pull/4/head
+708d0327af00e501d29c7de40049d821baf7f1d3 refs/pull/4/merge

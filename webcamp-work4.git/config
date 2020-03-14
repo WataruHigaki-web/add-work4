@@ -1,0 +1,9 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+	ignorecase = true
+[remote "origin"]
+	url = git@github.com:WataruHigaki-web/webcamp-work4.git
+	fetch = +refs/*:refs/*
+	mirror = true
